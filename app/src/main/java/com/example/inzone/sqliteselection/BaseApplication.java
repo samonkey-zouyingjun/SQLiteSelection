@@ -6,7 +6,7 @@ import android.os.Looper;
 
 
 /**
- * Created by Administrator on 2017/12/25.
+ * Created by zouyingjun on 2017/12/25.
  */
 
 public class BaseApplication extends Application {
